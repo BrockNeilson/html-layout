@@ -1,0 +1,68 @@
+.body {
+
+}
+
+.container {
+  ;
+}
+
+.text {
+  text-align:  center;
+  padding-top: 50%;
+
+}
+
+.hi  {
+    background-color: gray;
+   height: 350px;
+   width: 40%;
+   font-size: 80px;
+   font-family:  verdana;
+   text-align: center;
+margin: 0px 350px 0px 250px;
+}
+
+.message {
+  background-color:  white;
+height: 50px; 
+width:40%;
+font-size: 22px;
+text-align: center;
+padding-top:  20px;
+margin: 0px 350px 0px 250px;
+}
+
+.black {
+  background-color:  black;
+height: 50px;
+width:40%;
+margin: 0px 350px 0px 250px;
+}
+
+.red {
+  background-color:  red;
+height: 50px; 
+width:40%;
+  margin: 0px 350px 0px 250px;
+}
+
+.blue {
+  background-color: blue;
+height: 50px; 
+width:40%;
+  margin: 0px 350px 0px 250px;
+}
+
+.violet {
+  background-color: purple;
+height: 50px; 
+width:40%;
+  margin: 0px 350px 0px 250px;
+}
+
+.gray {
+  background-color:  gray;
+height: 50px; 
+width:40%;
+  margin: 0px 350px 0px 250px;
+}

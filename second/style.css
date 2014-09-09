@@ -1,0 +1,33 @@
+
+
+.col1 {
+  height: 1000px;
+  width: 35%;
+  background: blue;
+  float: left;
+
+}
+
+.col2 {
+  height: 1000px;
+  width: 35%;
+  background: red;
+  float: left;
+
+}
+
+.col3{
+  height: 750px;
+    width: 30%;
+  background: black;
+  float: left;
+
+}
+
+
+.pic {
+  height:250px;
+  max-width:30%;
+  float: left;
+
+}
