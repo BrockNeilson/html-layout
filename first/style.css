@@ -1,0 +1,50 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+}
+
+.whole {
+	height: 100%;
+	width: 100%;
+}
+
+.top {
+	background: red;
+	height: 30%;
+	width: 100%;
+}
+
+.left {
+	background: blue;
+	width: 25%;
+	height: 70%;
+	float: left;
+	display: inline-block;
+}
+
+.center {
+	background: orange;
+	width: 50%;
+	height: 60%;
+	float: left;
+	display: inline-block;
+}
+
+.bottom {
+	background: green;
+	width: 50%;
+	height: 10%;
+	float: left;
+	bottom: 0;
+	display: inline-block;
+}
+
+.right {
+	background: blue;
+	width: 25%;
+	height: 70%;
+	position: absolute;
+	right: 0;
+}
